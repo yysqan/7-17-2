@@ -10,4 +10,4 @@ git config --global user.email "你的git验证邮箱"
 
 报错 : please tell me who you are; 
 哈哈哈哈哈哈
-
+zhesxhhhfoiqgpihipgrhigh
