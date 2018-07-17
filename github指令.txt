@@ -1,0 +1,12 @@
+git  
+	作为指令前缀 驱动 git 帮忙处理相应指令;
+git init 
+	初始化git;
+
+设置你的github属于谁;
+
+git config --global user.name "你的git名称"
+git config --global user.email "你的git验证邮箱"
+
+报错 : please tell me who you are; 
+
